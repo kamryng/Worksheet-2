@@ -15,22 +15,21 @@
 		1960s with the release of Letraset sheets containing 
 		Lorem Ipsum passages, and more recently with desktop 
 		publishing software like Aldus PageMaker including 
-		versions of Lorem Ipsum.</p>
+		versions of Lorem Ipsum.</p></body>
 			<div>
 				<header>
-				  <nav>
-	          <li>Home
-	           <li>about
-	            <li>Content
-	         <nav>
-					<nav> This is the nav
-					</nav>
+		 <nav>
+	          <li>Home</li>
+	           <li>about</li>
+	            <li>Content</li>
+	         </nav>
+			
 				</header>
 					<section> this is the section
 					</section>
-						<aside This is the aside
+						<aside> This is the aside
 						</aside>
-				footer This is the footer The end
+				<footer> This is the footer The end
 				</footer>
 			</div>
 </html>
